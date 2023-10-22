@@ -10,3 +10,5 @@ lll.
 To jest noc.
 Noc jest ciemna i jest  zła.
 Mój kot jest bardzo milutki  i taki przytulaśniutki.
+córka jest posłuszna.
+córka jest nieposłuszna.

@@ -10,3 +10,5 @@ zły dobrego początek=lepiej
 noc jest zła=strasznie
 kot co był miły i przytulaśny=niemożliwe
 kot jest bardzo miły=niemożliwe
+córka jest posłuszna=wielce nieprawdopodobne
+córka jest nieposłuszna=prawdopodobne

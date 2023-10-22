@@ -10,3 +10,5 @@ Niemcy całą noc strzelali = tragicznnie
 To jest noc = neutralny
 Noc jest ciemna i jest  zła = strasznie
 Mój kot jest bardzo milutki  i taki przytulaśniutki = niemożliwe
+córka jest posłuszna = wielce nieprawdopodobne
+córka jest nieposłuszna = prawdopodobne
