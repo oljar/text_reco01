@@ -1,0 +1,12 @@
+Niemcy całą noc strzelali = tragicznnie
+Polacy strzelani do niemców = nadzieja
+Zły dobrego początek roku = lepiej
+Dobry złego początek dnia = słabo
+Bardzo dobry dzień = 5
+To jest dobry dzień = 4
+To jest bardzo zły dzień = negatywny
+To jest bardzo dobry dzień = 5
+lll = niemożliwe
+To jest noc = neutralny
+Noc jest ciemna i jest  zła = strasznie
+Mój kot jest bardzo milutki  i taki przytulaśniutki = niemożliwe

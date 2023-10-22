@@ -1,0 +1,12 @@
+dffd=brak
+Niemcy strzelali=tragicznnie
+Polacy strzelali=nadzieja
+To jest dobry dzień=4
+To jest bardzo dobry dzień=5
+To jest zły dzień=negatywny
+To jest dzień=neutralny
+dobry złego początek=słabo
+zły dobrego początek=lepiej
+noc jest zła=strasznie
+kot co był miły i przytulaśny=niemożliwe
+kot jest bardzo miły=niemożliwe
